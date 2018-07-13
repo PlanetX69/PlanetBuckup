@@ -1,9 +1,9 @@
 {
-    "originalGuildId": "",
-    "newGuildId": "",
-    "newGuildAdminRoleId": "",
-    "copyEmojis": false,
-    "copyBans": false,
+    "originalGuildId": "447018848881737728",
+    "newGuildId": "447018848881737728",
+    "newGuildAdminRoleId": "467321088553254913",
+    "copyEmojis": true,
+    "copyBans": true,
     "debug": false,
-    "token": ""
+    "token": "NDY0MzU3Nzg0MjQ3NTk5MTA0.Dio6zQ.30wIfrveawYjc0z16m-5jfdnHrw"
 }
